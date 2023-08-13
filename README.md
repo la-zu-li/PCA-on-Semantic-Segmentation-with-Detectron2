@@ -9,7 +9,7 @@ It features the application of the PCA (Principal Component Analysis) algorithm 
 
 ## The research
 
-The measurement of C3S crystals is an important part of a stage of portland cement production, the clynker microscopy. It is mostly done by analists, by examinating microscopic images of the clynker (a subproduct of cement) and measuring the crystals manually, in computers, with the help of drawing software. The research is about automating this, and there's where the PCA algorithm enters.
+The measurement of C3S crystals is an important part of a stage of portland cement production, the clynker microscopy. It is mostly done by analysts, by examinating microscopic images of the clynker (a subproduct of cement) and measuring the crystals manually, in computers, with the help of drawing software. The research is about automating this, and there's where the PCA algorithm enters.
 
 The algorithm showed good approximated results for the longest diagonal of the polygons segmented by the network of the C3S crystals, and a very good performance. This repository aims to show these results.
 
@@ -17,8 +17,8 @@ The algorithm showed good approximated results for the longest diagonal of the p
 
 This repository contains two python notebooks:
 
-- *'PCA_with_Detectron_Output.ipynb'*;
-- *'PCA_with_Detectron_Output_COLAB.ipynb'*
+- *PCA_with_Detectron_Output.ipynb*;
+- *PCA_with_Detectron_Output_COLAB.ipynb*
 
 Plus a '*requirements.txt*' file and the folder '*pytorch/*'.
 
