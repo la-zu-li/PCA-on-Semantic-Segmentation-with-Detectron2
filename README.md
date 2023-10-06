@@ -9,7 +9,7 @@ It features the application of the PCA (Principal Component Analysis) algorithm 
 
 ## The research
 
-Clinker is an important input for Portland Cement. Its quality can be assessed, among other technicques, by Clinker Microscopy. It is mostly done by analysts, by examinating microscopic images of the clynker and measuring the crystals manually, in computers, with help of drawing software. The research is about automating this, and that's where the PCA algorithm goes in.
+Clinker is an important input for Portland Cement. Its quality can be assessed, among other technicques, by Clinker Microscopy. It is mostly done by analysts, by examining microscopic images of the clinker and measuring the crystals manually, with help of drawing software. The research is about automating this, and that's where the PCA algorithm goes in.
 
 ## Contents
 
@@ -41,3 +41,9 @@ When running in Colab, use the notebook *'PCA_with_Detectron_Output_COLAB.ipynb'
 It's very recommended to run in Google Colab with GPU hardware accelerator. The GPU helps accelerating the inference process.
 
 After opening the notebook in Colab, run all cells in sequence. 
+
+## Acknowledgements
+
+The main author of this research would like to thank:
+- **PIBIC** (_Programa Institucional de Bolsas de Iniciação Científica_), for economic support;
+- Dr. Professor Rosineide Fernando da Paz, for advising the author on this research.
